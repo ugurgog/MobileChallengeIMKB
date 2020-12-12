@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/share_and_endexes"
+            android:checkable="true"
+            android:title="@string/share_and_endexes" />
+
+        <item
+            android:id="@+id/increases"
+            android:checkable="true"
+            android:title="@string/increases" />
+
+        <item
+            android:id="@+id/reduces"
+            android:checkable="true"
+            android:title="@string/reduces" />
+
+        <item
+            android:id="@+id/volume_thirty"
+            android:checkable="true"
+            android:title="@string/volume_thirty"/>
+
+        <item
+            android:id="@+id/volume_fifty"
+            android:checkable="true"
+            android:title="@string/volume_fifty"/>
+
+        <item
+            android:id="@+id/volume_hundred"
+            android:checkable="true"
+            android:title="@string/volume_hundred"/>
+
+    </group>
+
+</menu>

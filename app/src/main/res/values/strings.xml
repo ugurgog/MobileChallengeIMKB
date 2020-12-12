@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VeriparkIMKB</string>
+
+    <string name="imkb_share_and_endexes">IMKB Hisse ve Endeksler</string>
+    <string name="imkb_share_bill_and_endexes">IMKB Hisse Senetleri/Endeksler</string>
+    <string name="search">Ara</string>
+    <string name="there_is_no_search_result">Kayıt yok.</string>
+
+    <string name="share_and_endexes">Hisse ve Endeksler</string>
+    <string name="increases">Yükselenler</string>
+    <string name="reduces">Düşenler</string>
+    <string name="volume_thirty">Hacme Göre - 30</string>
+    <string name="volume_fifty">Hacme Göre - 50</string>
+    <string name="volume_hundred">Hacme Göre - 100</string>
+
+    <string name="symbol">Sembol</string>
+    <string name="daily_reduce">Günlük Düşük</string>
+    <string name="price">Fiyat</string>
+    <string name="daily_raise">Günlük Yüksek</string>
+    <string name="difference">Fark</string>
+    <string name="per">Adet</string>
+    <string name="volume">Hacim</string>
+    <string name="limit">Tavan</string>
+    <string name="floor">Taban</string>
+    <string name="sale">Satış</string>
+    <string name="buying">Alış</string>
+    <string name="change">Değişim</string>
+</resources>
